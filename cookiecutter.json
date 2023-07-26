@@ -1,6 +1,6 @@
 {
     "project_name": "Python Simple Project",
-    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+    "project_slug": "{{cookiecutter.project_name.lower().replace(' ', '_')}}",
     "project_description": "Python package",
     "version": "0.1.0"
 }
